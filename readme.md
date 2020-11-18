@@ -42,24 +42,25 @@ De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen me
 
 **Screenshot(s):**
 
-<img src="images/typografie.png" width="500" height="400">
-<img src="images/typografie3.png" width="500" height="400">
-
-Vragen voor de Meeting:
-- Hoe zorg ik ervoor dat ik per zin minder woorden heb? Moet ik hiervoor html gebruiken of is CSS genoeg?
-- Is werken met -webkit-background de beste manier om een gradient van een woord aan te passen?
-
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
 
 ## Breakdownschets + Typografie (week 1)
 
+De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen met de code. Als een 4de typografie opdracht heb ik gespeeld met de gradient van de tekst. Ik heb met deze opdrachten veel geleerd en het coderen per opdracht ging mij een stuk makkelijker af. Ik vind nog wel de link tussen HTML en CSS soms verwarrend. Daarbij bedoel ik vooral de Selectoren in CSS.
 
+**Vragen voor de Meeting**
+- Hoe zorg ik ervoor dat ik per zin minder woorden heb? Moet ik hiervoor html gebruiken of is CSS genoeg?
+- Is werken met -webkit-background de beste manier om een gradient van een woord aan te passen?
+
+**Screenshot(s):**
+
+<img src="images/typografie.png" width="600" height="400">
+<img src="images/typografie3.png" width="600" height="400">
 
 
 ## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
 **Je startniveau:** blauw
 
