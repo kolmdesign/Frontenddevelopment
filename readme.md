@@ -68,10 +68,8 @@ Vragen voor de Meeting:
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/homepage-smallscreen.png">
-<img src="images/homepage1-smallscreen.png">
-<img src="images/homepage2-smallscreen.png">
+<img src="images/homepage-smallscreen.png" width="500" height="600">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="https://github.com/kolmdesign/Frontenddevelopment/blob/main/images/homepagina-candle.png" alt="homepagina">
+<img src="images/homepage2-smallscreen.png" width="500" height="600">
