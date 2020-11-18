@@ -42,7 +42,7 @@ De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen me
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="images/typografie.png" width="500" height="600">
 
 Vragen voor de Meeting:
 - Hoe zorg ik ervoor dat ik per zin minder woorden heb? Moet ik hiervoor html gebruiken of is CSS genoeg?
@@ -66,10 +66,8 @@ Vragen voor de Meeting:
 
 **Je opdracht:** Het namaken van een bestaande website: https://theverygoodcandlecompany.com/
 
-**Screenshot(s) van de eerste pagina (small screen):**
+**Screenshots Small Screen van Website:**
 
 <img src="images/homepage-smallscreen.png" width="500" height="600">
-
-**Screenshot(s) van de tweede pagina (small screen):**
 
 <img src="images/homepage2-smallscreen.png" width="500" height="600">
