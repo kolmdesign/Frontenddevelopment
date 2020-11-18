@@ -68,7 +68,9 @@ Vragen voor de Meeting:
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/homepage.png">
+<img src="images/homepage-smallscreen.png">
+<img src="images/homepage1-smallscreen.png">
+<img src="images/homepage2-smallscreen.png">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
