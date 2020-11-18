@@ -38,33 +38,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 1 (week 3)
 
-### Stand van zaken
-
--dit ging goed & dit was lastig-
+De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen met de code. Als een 4de typografie opdracht heb ik gespeeld met de gradient van de tekst. Ik heb met deze opdrachten veel geleerd en het coderen per opdracht ging mij een stuk makkelijker af. Ik vind nog wel de link tussen HTML en CSS soms verwarrend. Daarbij bedoel ik vooral de Selectoren in CSS.
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
 
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Vragen voor de Meeting:
+- Hoe zorg ik ervoor dat ik per zin minder woorden heb? Moet ik hiervoor html gebruiken of is CSS genoeg?
+- Is werken met -webkit-background de beste manier om een gradient van een woord aan te passen? 
 
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
 
+## Breakdownschets + Typografie (week 1)
 
-
-## Breakdownschets (week 1)
-
--uitwerken voor de 1e werkgroep - eind van de eerste week-
 
 
 
@@ -79,8 +68,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/candlecompany.jpg" width="375px" alt="the lab">
+<img src="images/candlecompany.jpg" alt="the lab">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/homepagina-candle.png" width="375px" alt="homepagina">
+<img src="images/homepagina-candle.png" alt="homepagina">
