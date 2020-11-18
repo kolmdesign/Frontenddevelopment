@@ -68,7 +68,7 @@ Vragen voor de Meeting:
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="https://cdn.shopify.com/s/files/1/0082/9764/4091/files/165A0694_1080x.jpg?v=1596319349.jpg" alt="the lab">
+<img src="images/homepage.png">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
