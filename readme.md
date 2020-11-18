@@ -42,7 +42,8 @@ De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen me
 
 **Screenshot(s):**
 
-<img src="images/typografie.png" width="500" height="600">
+<img src="images/typografie.png" width="500" height="400">
+<img src="images/typografie2.png" width="500" height="400">
 
 Vragen voor de Meeting:
 - Hoe zorg ik ervoor dat ik per zin minder woorden heb? Moet ik hiervoor html gebruiken of is CSS genoeg?
