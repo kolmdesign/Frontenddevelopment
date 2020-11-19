@@ -48,8 +48,9 @@ De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen me
 
 ## Positionering (week 2)
 
+Vrij lastige opdracht. Ik begrijp nog steeds niet het verschil tussen relative en absolute. Waarom kan ik het roze blokje niet groter maken met right: 10; etc. Vind dit nog verwarrend.
 
-
+<img src="images/positionering.png" width="500" height="600">
 
 ## Breakdownschets + Typografie (week 1)
 
