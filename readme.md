@@ -46,6 +46,11 @@ De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen me
 
 -na afloop snel uitkomsten vastleggen-
 
+## Positionering (week 2)
+
+
+
+
 ## Breakdownschets + Typografie (week 1)
 
 De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen met de code. Als een 4de typografie opdracht heb ik gespeeld met de gradient van de tekst. Ik heb met deze opdrachten veel geleerd en het coderen per opdracht ging mij een stuk makkelijker af. Ik vind nog wel de link tussen HTML en CSS soms verwarrend. Daarbij bedoel ik vooral de Selectoren in CSS.
