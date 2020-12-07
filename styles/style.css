@@ -1,5 +1,211 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arapey&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #9c8773;
 }
 
+body {
+font-family: "Montserrat" sans-serif;
+}
+
+nav {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit;
+}
+/* navigatie */
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+    padding: 35px 100px 0;
+    background-image: url("../images/candleimage2.jpg");
+    background-size: cover;
+}
+
+header nav {
+    display: flex;
+}
+
+header nav li {
+margin: 0 15px;
+}
+
+header nav li:first-child{
+margin-left: 0;
+}
+
+header nav li:last-child {
+    margin-right: 0;
+}
+
+/* de tekst in de front image */
+
+.frontbanner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 110px 100px;
+}
+
+
+.frontbanner {
+    position: relative;
+    justify-content: center;
+    min-height: 100vh;
+    color: #fff;
+    text-align: center;
+}
+
+/* de front image*/
+
+.frontbanner h1 {
+    margin-bottom: 15px;
+    font-size: 50px;
+    font-family: "Montserrat" sans-serif;
+    text-decoration: uppercase;
+    background: transparent;
+}
+
+.frontbanner h2 {
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-family: "Montserrat" sans-serif;
+    background: transparent;
+}
+
+.meerbutton {
+    padding: 15px 40px;
+    border-radius: 0px;
+    background: white;
+    color: black;
+}
+
+/* Nieuwe Section New Look Area */
+
+.newlookarea {
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin: auto;
+}
+
+/* De tekst bij New Look */
+
+.section-titlenewlook {
+    font-family: "Montserrat" sans-serif;
+    padding: 30px;
+    font-size: 30px;
+    color: #005696;
+}
+
+.eerstealinea {
+font-family: 'Arapey', serif;
+font-size: 18px;
+text-align: center;
+}
+
+.tweedealinea {
+font-family: 'Arapey', serif;
+font-size: 18px;
+text-align: center;
+margin-top: 10px;
+}
+
+/* de drie afbeeldingen */
+
+.item {
+  margin: 10px;
+  padding: 10px;
+}
+
+.terrapictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    height: 300px;
+}
+
+/* media quary voor de navigation area*/
+
+
+@media(max-width: 1000px) {
+header {
+    padding: 20px 50px;
+}
+}
+@media (max-width: 700px) {
+    header {
+        flex-direction: column;
+    }
+    .logo {
+        margin-bottom: 15px;
+    }
+    header nav li {
+        margin: 0 7px;
+    }   
+}
+
+/* media quary voor de section area*/
+
+@media (max-width: 1000px) {
+    section { 
+        padding: 100px 50px;
+    }
+}
+@media (max-width: 600px) {
+    section {
+        padding: 125px 30px;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .frontbanner {
+        min-height: 600px;
+    }
+.frontbanner h1 {
+    font-size: 32px;
+}
+.frontbanner h2 {
+    font-size: 20px;
+}
+.meerbutton {
+    padding: 15px 40px;
+}
+}
+
+
+
+
+
+
+
+
+    
