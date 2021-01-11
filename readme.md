@@ -10,7 +10,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Bronnenlijst
 1. Landing Pagina - https://theverygoodcandlecompany.com/
 2. About Pagina - https://theverygoodcandlecompany.com/pages/about
-3. -...-
+3. Alle foto's bevinden zich op de website van https://theverygoodcandlecompany.com/
 
 
 
@@ -21,6 +21,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
+
+
+## Kerstvakantie
+Ik heb voornamelijk gewerkt om mijn website responsive mogelijk te krijgen met media Queries. De mobiele versie ziet er beter uit. 
+
 
 
 
