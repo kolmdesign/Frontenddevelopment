@@ -26,17 +26,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
-
+Tijdens mijn voortgang ben ik erachter gekomen dat ik teveel classes gebruik. Ik moet deze dus zo veel mogelijk weghalen. Ook probeer ik grids te verwerken in mijn code maar dat is vrij lastig. Ik ga vooral in de kerstvakantie aan mijn code werken, zodat alles er CLEAN uitziet met zo min mogelijk classes.  
 
 
 ## Voortgang 2 (week 5)
 
 Week (4): Flexbox. Ik heb de video's allemaal bekeken en aantekeningen opgeschreven, maar ben nog bezig met het oefenen hiervan. Doordat ik de landingpagina van de website wat lastiger vind ga ik eerst werken aan "de about" pagina. Ik ben hier voornamelijk mijn skills van flexbox aan het oefenenen. Ook heb ik een begin gemaakt aan de footer.
 
-<img src="images/footer.png" width="600" height="500">
+<img src="images/footer.png" width="600" height="400">
 
-<img src="images/aboutpage.png" width="600" height="500">
+<img src="images/aboutpage.png" width="600" height="450">
 
 
 ## Voortgang 1 (week 3)
