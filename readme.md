@@ -39,6 +39,9 @@ Week (4): Flexbox. Ik heb de video's allemaal bekeken en aantekeningen opgeschre
 ## Voortgang 1 (week 3)
 
 De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen met de code. Als een 4de typografie opdracht heb ik gespeeld met de gradient van de tekst. Ik heb met deze opdrachten veel geleerd en het coderen per opdracht ging mij een stuk makkelijker af. Ik vind nog wel de link tussen HTML en CSS soms verwarrend. Daarbij bedoel ik vooral de Selectoren in CSS.
+Ik ben voornamelijk bezig geweest om de header van mijn website te verbeteren. Ik had soms nog moeite met flexbox en het ordenen van items. Ik krijg het wel langzaam meer onder de knie.
+
+<img src="images/header.png" width="600" height="400">
 
 **Screenshot(s):**
 
