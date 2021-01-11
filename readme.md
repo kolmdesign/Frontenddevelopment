@@ -8,8 +8,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
+1. Landing Pagina - https://theverygoodcandlecompany.com/
+2. About Pagina - https://theverygoodcandlecompany.com/pages/about
 3. -...-
 
 
@@ -26,7 +26,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
-Tijdens mijn voortgang ben ik erachter gekomen dat ik teveel classes gebruik. Ik moet deze dus zo veel mogelijk weghalen. Ook probeer ik grids te verwerken in mijn code maar dat is vrij lastig. Ik ga vooral in de kerstvakantie aan mijn code werken, zodat alles er CLEAN uitziet met zo min mogelijk classes.  
+Tijdens mijn voortgang ben ik erachter gekomen dat ik teveel classes gebruik. Ik moet deze dus zo veel mogelijk weghalen. Ook probeer ik grids te verwerken in mijn code maar dat is vrij lastig. Ik ga vooral in de kerstvakantie aan mijn code werken, zodat alles er CLEAN uitziet met zo min mogelijk classes. Ook ga ik in de vakantie werken aan het responsive maken van de About pagina en de landing pagina met Media Queries. Ik ga ook tutorials bekijken van Javascript en hoe ik de micro-interactie in de website kan verwerken. 
 
 
 ## Voortgang 2 (week 5)
@@ -49,7 +49,7 @@ Ik ben voornamelijk bezig geweest om de header van mijn website te verbeteren. I
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik heb hulp van Deanna gekregen hoe ik het beste mijn header eruit kan laten zien met code, ze is erg behulpzaam geweest en heeft mij veel geholpen!
 
 ## Positionering (week 2)
 
