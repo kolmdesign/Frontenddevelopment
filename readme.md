@@ -33,8 +33,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 2 (week 5)
 
 Week (4): Flexbox. Ik heb de video's allemaal bekeken en aantekeningen opgeschreven, maar ben nog bezig met het oefenen hiervan. Doordat ik de landingpagina van de website wat lastiger vind ga ik eerst werken aan "de about" pagina. Ik ben hier voornamelijk mijn skills van flexbox aan het oefenenen. Ook heb ik een begin gemaakt aan de footer.
-<img src="images/footer.png" width="600" height="400">
-<img src="images/aboutpage.png" width="600" height="400">
+
+<img src="images/footer.png" width="600" height="500">
+
+<img src="images/aboutpage.png" width="600" height="500">
 
 
 ## Voortgang 1 (week 3)
