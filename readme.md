@@ -93,6 +93,10 @@ De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen me
 
 **Screenshots Small Screen van Website:**
 
-<img src="images/homepage-smallscreen.png" width="500" height="600">
+<img src="images/screenshot1.png" width="500" height="600">
 
-<img src="images/homepage2-smallscreen.png" width="500" height="600">
+<img src="images/screenshot2.png" width="500" height="600">
+
+<img src="images/screenshot3.png" width="500" height="600">
+
+
