@@ -16,7 +16,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Ik vond voornamelijk het responsive maken van de website pittig met de media quaries. Ik heb erg veel tutorials gekeken hierover. Voor de rest vind ik de website aardig gelukt. Vond het alleen lastig om geen classes te gebruiken.
 
 **Screenshot(s):**
 
