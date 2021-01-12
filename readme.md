@@ -79,8 +79,8 @@ De typografie opdrachten heb ik alle drie afgekregen en het was even puzzelen me
 
 **Screenshot(s):**
 
-<img src="images/typografie.png" width="600" height="400">
-<img src="images/typografie3.png" width="600" height="400">
+<img src="images/screenshot4.png" width="600" height="400">
+<img src="images/screenshot5.png" width="600" height="400">
 
 
 ## Intake (week 1)
