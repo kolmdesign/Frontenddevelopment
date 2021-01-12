@@ -1,0 +1,151 @@
+@media only screen and (max-width: 992px){
+header{
+  padding:0px 20px;
+}
+section{
+  padding:50px 20px;
+  }
+article{
+  padding:50px 20px;
+  grid-template-columns:1fr 1fr;
+}
+.lab-section ,.stay-connected{
+  padding:50px 20px;
+  grid-template-columns:1fr 1fr;
+}
+footer{
+  padding:50px 20px;
+  grid-template-columns:1fr 1fr;
+}
+main{
+   padding:50px 20px;
+}
+.follow-on-instagram{
+    padding:50px 20px;
+}
+#hero-section{
+  height:500px;
+  padding-bottom:100px;
+}
+.main-hero-part{
+  width:100%;
+  height:auto;
+  padding:100px 0px;
+}
+}
+@media only screen and (max-width: 768px){
+  #hero-section{
+  height:400px;
+  padding-bottom:100px;
+}
+.main-hero-part{
+  width:100%;
+  height:auto;
+  padding:100px 0px;
+}
+
+	header{
+  padding:0px 20px;
+	}
+  section{
+  padding:50px 20px;
+  }
+  .show-menu-btn, .hide-menu-btn{
+    display: block;
+  }
+  header ul{
+    position: fixed;
+    width: 50%;
+    height: 100vh;
+    background:BLACK;
+    right: -100%;
+    top: -15px;
+    text-align: center;
+    padding: 100px 0;
+    line-height: normal;
+    transition: 0.7s;
+  }
+  header ul a{
+    display: block;
+    padding: 10px 0px;
+  }
+  .hide-menu-btn{
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    color:white;
+  }
+  #chk:checked ~ ul{
+    right: 0;
+  }
+  .add-listing-btn{
+  	width:50%!important;
+	color:white!important;
+	margin:0 auto;
+	text-transform:uppercase!important;
+	padding:7px 20px!important;
+	letter-spacing:2px;
+	border-radius:5px;
+}
+.main-hero-part h1{
+  font-size:30px;
+  line-height:35px;
+}
+section p{
+  width:100%;
+}
+article{
+  padding:50px 20px;
+  padding-bottom:50px;
+  grid-template-columns:1fr;
+  grid-template-rows:250px;
+  grid-gap:20px;
+}
+.lab-section,.stay-connected{
+  padding:50px 20px;
+  padding-bottom:50px;
+  grid-template-columns:1fr;
+  grid-gap:20px;
+}
+.form-setion{
+  padding:40px 20px;
+
+}
+form{
+  width:100%;
+  height: auto;
+  background:transparent;
+}
+form input[type="text"]{
+  width:100%;
+  background:#e7ddce;;
+  display: block;
+  margin-bottom:10px;
+}
+form input[type="submit"]{
+  display: block;
+  margin:0 auto;
+  margin-top: 10px;
+}
+footer{
+  padding:50px 20px;
+  padding-top:10px;
+  grid-template-columns:1fr;
+}
+main{
+   padding:50px 20px;
+}
+footer > div:nth-of-type(4){
+  text-align: left;
+}
+/*about page style */
+.abouthero ul li a{
+  color:white;
+}
+.abouthero .show-menu-btn i{
+  color:#005696;
+}
+}
+@media only screen and (max-width: 554px){
+	
+}

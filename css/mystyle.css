@@ -1,0 +1,452 @@
+body{
+	font-family: 'Arapey', serif;
+	font-family: 'Montserrat', sans-serif;
+	margin:0px;
+	padding:0px;
+}
+.main-container{
+	max-width:1400px;
+	margin:0 auto;
+}
+#hero-section{
+	width:100%;
+	height:660px;
+	background:url(../images/home-hero-2.jpg);
+	background-size:cover;
+	background-position: center;
+	z-index:;
+}
+
+header{
+  height: 70px;
+  background:transparent;
+  color:#000;
+  z-index: 999999;
+  padding:0px 180px;
+}
+.logo{
+	padding-top:20px;
+  float: left;
+}
+.logo img{
+
+}
+header ul{
+  float: right;
+  line-height: 70px;
+}
+header ul a{
+  font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing:1.4px;
+    text-transform: uppercase;
+   padding:0px 10px;
+    transition: color 0.2s;
+    font-size: 14px;
+    color:white;
+    text-decoration: none;
+}
+header ul a .active{
+	color:gray;
+	font-weight: bold;
+}
+.show-menu-btn, .hide-menu-btn{
+  transition: 0.4s;
+  font-size: 20px;
+  cursor: pointer;
+  display: none;
+}
+.show-menu-btn{
+  float: right;
+  color:white;
+}
+.show-menu-btn i{
+  line-height: 80px;
+  font-size:20px;
+}
+header ul a:hover,
+.show-menu-btn:hover,
+.hide-menu-btn:hover{
+  color: white;
+}
+
+#chk{
+  position: absolute;
+  visibility: hidden;
+  z-index: 11111;
+}
+
+header ul li{
+  display: inline;
+  list-style: none;
+}
+
+
+/*header eindigt hier*/
+
+.main-hero-part{
+  width:100%;
+  height:400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main-hero-part h3,h1{
+  color:white;
+  text-transform: uppercase;
+  margin:0px;
+  padding:0px;
+  text-align: center;
+}
+.main-hero-part h3{
+  font-family: 'Montserrat', serif;
+  font-size:18px;
+  line-height: 30px;
+}
+.main-hero-part h1{
+  font-family: 'Arapey', serif;
+  font-size:64px;
+  line-height:80px;
+}
+.main-hero-part a{
+  display:block;
+  text-align: center;
+  width:150px;
+  margin:0 auto;
+  height:44px;
+  margin-top:20px;
+  background:white;
+  color:block;
+  line-height:44px;
+  text-decoration: none;
+  font-size:14px;
+  letter-spacing: 1.3px;
+  transition:.4s;
+  color:black;
+  text-transform: uppercase;
+}
+.main-hero-part a:hover{
+  opacity:.8;
+}
+/*main hero eindigt hier, content begint*/
+section{
+  width:100%;
+  box-sizing: border-box;
+  padding:100px 180px;
+  background: #e7ddce;
+}
+section h1{
+  font-size:30px;
+  line-height:42px;
+  color:#005696;
+  font-family: 'Arapey' , sans-serif;
+  font-weight: normal;
+  margin-bottom:20px;
+  text-transform: capitalize;
+}
+section p{
+  max-width:750px;
+  margin:0 auto;
+  font-family: 'Arapey' , sans-serif;
+  line-height:25px;
+  text-align: center;
+  letter-spacing:1px;
+}
+article{
+  width:100%;
+  box-sizing: border-box;
+  padding:0px 180px;
+  padding-bottom:50px;
+  background: #e7ddce;
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr;
+  grid-template-rows:250px;
+  grid-gap:30px;
+}
+article div{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  height:250px;
+  cursor: pointer;
+  border:4px;
+  overflow: hidden;
+  background-size:100% 100%;
+  width:100%;
+}
+article > div:nth-of-type(1){
+  background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(../images/home-hero-2.jpg);
+  background-size:cover;
+  width:100%;
+  background-repeat: no-repeat;
+}
+article div a{
+  font-size:30px;
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: none;
+  letter-spacing:1px;
+  color:white;
+  font-family: 'Arapey' , sans-serif;
+}
+article > div:nth-of-type(2){
+  background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(../images/box-2.jpg);
+  background-size:cover;
+}
+article > div:nth-of-type(3){
+  background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(../images/box-3.jpg);
+  background-size:cover;
+  width:100%;
+}
+
+.lab-section{
+  width:100%;
+  height:auto;
+  background:#e7ddce;
+  padding:50px 180px;
+  padding-bottom:80px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns:1fr 1fr;
+  grid-gap:50px;
+
+}
+.lab-section > div:nth-of-type(1){
+  display: grid;
+  align-items: center;
+}
+.lab-section h3{
+  text-transform: uppercase;
+  color:#005696;
+  line-height:32px;
+  font-size:23px;
+  letter-spacing:2.4px;
+}
+.lab-section p,span{
+  font-family: 'Arapey' , sans-serif;
+  line-height:25px;
+  letter-spacing:1px;
+}
+.lab-section > div:nth-of-type(2) img{
+  width:100%;
+}
+
+/*lab gedeelte eindigt hier*/
+.form-setion{
+  width:100%;
+  height:auto;
+  background: white;
+  padding:80px 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.form-setion h2{
+   text-transform: lowercase;
+  color:#005696;
+  line-height:42px;
+  font-weight: normal;
+  font-family: 'Arapey' , sans-serif;
+  text-align: center;
+  font-size:30px;
+  letter-spacing:2.4px;
+  margin:0px;
+
+}
+.form-setion p{
+   font-family: 'Arapey' , sans-serif;
+  line-height:25px;
+  letter-spacing:1px;
+ 
+}
+.form-setion hr{
+  width:5%;
+  border:none;
+  height: 1px;
+  display: block;
+  margin:0 auto;
+  background: #222323;
+  margin-top:20px;
+}
+form{
+  max-width:520px;
+  background:#e7ddce;
+  text-align: left;
+  height:65px;
+  margin:0 auto;
+  padding:10px;
+  box-sizing: border-box;
+  margin-top:20px;
+}
+form input[type="text"]{
+  width:368px;
+  background:transparent;
+  border:none;
+  height:44px;
+  margin-bottom:0px;
+}
+
+form input[type="submit"]{
+  width:120px;
+  color:white;
+  font-size:13px;
+  font-family: 'Montserrat' , sans-serif;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background:black;
+  cursor: pointer;
+  border:none;
+  height:45px;
+}
+form input::placeholder{
+  font-style: italic;
+  font-size:21px;
+  color:#222323;
+   font-family: 'Arapey' , sans-serif;
+   letter-spacing: 1px;
+}
+
+/*form section eindigt hier*/
+
+
+.stay-connected{
+  width:100%;
+  height:auto;
+  background:#e7ddce;
+  padding:80px 180px;
+  padding-bottom:80px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns:1fr 1fr;
+  grid-gap:50px;
+
+}
+.stay-connected > div:nth-of-type(2){
+  display: grid;
+  align-items: center;
+}
+.stay-connected h3{
+  text-transform: uppercase;
+  color:#005696;
+  line-height:32px;
+  font-size:23px;
+  letter-spacing:2.4px;
+}
+.stay-connected p,span{
+  font-family: 'Arapey' , sans-serif;
+  line-height:25px;
+  letter-spacing:1px;
+}
+.stay-connected > div:nth-of-type(1) img{
+  width:100%;
+}
+.follow-on-instagram{
+    padding:80px 180px;
+    background:#e7ddce;
+}
+
+.follow-on-instagram h2{
+  text-transform: capitalize;
+  color:#005696;
+  text-align: center;
+  font-family: 'Arapey' , sans-serif;
+  line-height:32px;
+  font-size:23px;
+  letter-spacing:2.4px;
+}
+.follow-on-instagram hr{
+  width:5%;
+  border:none;
+  height: 1px;
+  background:black;
+}
+.follow-on-instagram img{
+  width:100%;
+}
+
+/*follow us on instagram section eindigt hier*/
+footer{
+  padding:40px 180px;
+  width:100%;
+  height: auto;
+  box-sizing: border-box;
+ display: grid;
+  background:#e7ddce;
+  grid-template-columns:1fr 1fr 1fr 1fr;
+
+}
+footer ul li{
+  list-style: none;
+}
+footer ul li a{
+  font-size:16px;
+  font-family: 'Arapey' , sans-serif;
+  text-decoration: none;
+  line-height: 25px;
+  color:#222323;
+}
+footer > div:nth-of-type(4){
+  text-align: right;
+}
+footer > div:nth-of-type(4) p{
+  font-family: 'Arapey' , sans-serif;
+  line-height:25px;
+  letter-spacing:1px;
+}
+footer > div:nth-of-type(4) img{
+  width:100%;
+}
+
+/*//einde home pagina*/
+.abouthero{
+  height: auto;
+  padding-bottom:40px;
+  background:#e7ddce;;
+  background-image:none;
+}
+.abouthero ul li a{
+  color:#005696;
+}
+
+main{
+  padding:80px 180px;
+  box-sizing: border-box;
+  background:#e7ddce;
+}
+main h2{
+  text-transform: capitalize;
+  color:#005696;
+  text-align: center;
+  font-family: 'Arapey' , sans-serif;
+  line-height:32px;
+  font-size:23px;
+  letter-spacing:2.4px;
+  border-bottom:1px solid blue;
+  display:block;
+  margin:0 auto;
+  max-width:70px;
+  padding-bottom:5px;
+  text-align: center;
+}
+main img{
+  width:100%;
+  margin:20px 0px;
+}
+main h5{
+font-family: 'Arapey' , sans-serif;
+  line-height:25px;
+  font-weight: normal;
+  letter-spacing:1px;
+}
+
+main p{
+   font-family: 'Arapey' , sans-serif;
+  line-height:25px;
+  letter-spacing:1px;
+}
+
+main div img{
+  width:auto;
+}
