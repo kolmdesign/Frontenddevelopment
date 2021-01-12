@@ -21,10 +21,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
+## Na Kerstvakantie
+
+De website ziet er goed uit en werkt naar behoren, ik heb wel classes gebruikt, maar vond het lastig om deze te vervangen..
 
 
 ## Kerstvakantie
-Ik heb voornamelijk gewerkt om mijn website responsive mogelijk te krijgen met media Queries. De mobiele versie ziet er beter uit. 
+Ik heb voornamelijk gewerkt om mijn website responsive mogelijk te krijgen met media Queries. De mobiele versie ziet er beter uit. Ik heb als advies gekregen om de media quaries in een aparte file te maken. Zodat alles overzichtelijker is
 
 <img src="images/mobieleversie1.png" width="400" height="800">
 
