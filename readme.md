@@ -29,9 +29,9 @@ De website ziet er goed uit en werkt naar behoren, ik heb wel classes gebruikt, 
 ## Kerstvakantie
 Ik heb voornamelijk gewerkt om mijn website responsive mogelijk te krijgen met media Queries. De mobiele versie ziet er beter uit. Ik heb als advies gekregen om de media quaries in een aparte file te maken. Zodat alles overzichtelijker is
 
-<img src="images/screenshot12.png" width="400" height="800">
+<img src="images/screenshot12.png" width="400" height="600">
 
-<img src="images/screenshot11.png" width="400" height="800">
+<img src="images/screenshot11.png" width="400" height="600">
 
 
 
@@ -45,7 +45,7 @@ Tijdens mijn voortgang ben ik erachter gekomen dat ik teveel classes gebruik. Ik
 
 Week (4): Flexbox en Grid. Ik heb de video's allemaal bekeken en aantekeningen opgeschreven, maar ben nog bezig met het oefenen hiervan. Doordat ik de landingpagina van de website wat lastiger vind ga ik eerst werken aan "de about" pagina. Ik ben hier voornamelijk mijn skills van flexbox en Grid aan het oefenenen. Ook heb ik een begin gemaakt aan de footer. Ik merk dat grid beter werkt voor mijn website dan flexbox. 
 
-<img src="images/screenshot9.png" width="600" height="400">
+<img src="images/screenshot9.png" width="600" height="450">
 
 <img src="images/screenshot10e.png" width="600" height="450">
 
