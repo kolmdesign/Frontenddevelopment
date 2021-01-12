@@ -43,7 +43,7 @@ Tijdens mijn voortgang ben ik erachter gekomen dat ik teveel classes gebruik. Ik
 
 ## Voortgang 2 (week 5)
 
-Week (4): Flexbox. Ik heb de video's allemaal bekeken en aantekeningen opgeschreven, maar ben nog bezig met het oefenen hiervan. Doordat ik de landingpagina van de website wat lastiger vind ga ik eerst werken aan "de about" pagina. Ik ben hier voornamelijk mijn skills van flexbox aan het oefenenen. Ook heb ik een begin gemaakt aan de footer.
+Week (4): Flexbox en Grid. Ik heb de video's allemaal bekeken en aantekeningen opgeschreven, maar ben nog bezig met het oefenen hiervan. Doordat ik de landingpagina van de website wat lastiger vind ga ik eerst werken aan "de about" pagina. Ik ben hier voornamelijk mijn skills van flexbox en Grid aan het oefenenen. Ook heb ik een begin gemaakt aan de footer. Ik merk dat grid beter werkt voor mijn website dan flexbox. 
 
 <img src="images/footer.png" width="600" height="400">
 
@@ -67,7 +67,7 @@ Ik heb hulp van Deanna gekregen hoe ik het beste mijn header eruit kan laten zie
 
 Vrij lastige opdracht. Ik begrijp nog steeds niet het verschil tussen relative en absolute. Waarom kan ik het roze blokje niet groter maken met right: 10; etc. Vind dit nog verwarrend.
 
-<img src="images/positionering.png" width="600" height="400">
+<img src="images/screenshot5.png" width="600" height="400">
 
 ## Breakdownschets + Typografie (week 1)
 
